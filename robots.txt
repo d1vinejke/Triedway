@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /admin
+Disallow: /docs.php
+Disallow: /comments.php
+Sitemap: http://triedway.ru/sitemap.xml
