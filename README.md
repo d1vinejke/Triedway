@@ -1,3 +1,3 @@
 # Triedway
  
-demo - triedway.ru
+demo - https://triedway.ru
